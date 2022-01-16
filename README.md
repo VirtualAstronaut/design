@@ -1,16 +1,11 @@
 # design
 
-A new Flutter project.
+design for task
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<h3> Screen 1 </h3>
+<img src="https://user-images.githubusercontent.com/36418182/149662137-245b4d31-5fb4-4963-99ce-f4c2c75103ce.png" width="25%" height="25%">
+<h3> Screen 2 </h3>
+<img src="https://user-images.githubusercontent.com/36418182/149662146-9851e77a-8cf1-46df-9ec5-916825e4a702.png" width="25%" height="25%">
+<h3> Screen 3 </h3>
+<img src="https://user-images.githubusercontent.com/36418182/149662148-292ce3b7-cd95-41fe-b738-83ba56e41cb3.png" width="25%" height="25%">
