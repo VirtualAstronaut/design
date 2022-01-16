@@ -1,4 +1,3 @@
-import 'package:design/components/clipper.dart';
 import 'package:design/components/grid_background.dart';
 import 'package:flutter/material.dart';
 import 'package:design/app_theme.dart';
