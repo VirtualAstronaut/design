@@ -29,6 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  percent_indicator: ^3.4.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -62,6 +63,11 @@ flutter:
     - assets/images/initialphoto.png
     - assets/images/wave_bg.png
     - assets/images/apple_logo.png
+    - assets/images/spotify.png
+    - assets/images/playstation.png
+    - assets/images/netflix.png
+    - assets/images/illustrator.png
+    - assets/images/mastercard.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
